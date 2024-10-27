@@ -3,7 +3,7 @@
 <p  align="center"><img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="300" height="250" align ="center">
 
 ## Welcome fellow Coder 👋
-I'm __________, A ____Education at  ____ College. I have  an  avid interest in _____ (Interests).
+I'm Srushti Moghe, A ____Education at  ____ College. I have  an  avid interest in _____ (Interests).
 
 ### Summary 👨‍
 - 🔭 Fields of interest in Robotics: Perception, State Estimation, Planning, Optimisation, Machine Learning, Automation
